@@ -26,4 +26,6 @@ echo "this is a test in PHP";
 
 echo "this is another test which was fixed";
 
+This is an error
+
 ?>
