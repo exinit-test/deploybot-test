@@ -26,6 +26,8 @@ echo "this is a test in PHP";
 
 echo "this is another test which was fixed";
 
-echo "And another line of awesomeness!"
+echo "And another line of awesomeness!";
+
+echo "test 2";
 
 ?>
