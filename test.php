@@ -24,6 +24,6 @@
 
 echo "this is a test in PHP";
 
-echo "this is another test";
+echo "this is another test which was fixed";
 
 ?>
