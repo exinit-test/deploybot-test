@@ -22,6 +22,8 @@
  * Date:        11.09.2017 19:02
  */
 
-echo "this is a test in PHP"
+echo "this is a test in PHP";
+
+echo "this is another test";
 
 ?>
